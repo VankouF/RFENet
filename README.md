@@ -1,4 +1,4 @@
-# EBLNet
+# RFENet
 This repo contains the the implementation of Our IJCAI-2023 work: RFENet: Towards Reciprocal Feature Evolution for Glass Segmentation.
 
 [paper](https://www.ijcai.org/proceedings/2023/0080.pdf)
