@@ -46,7 +46,7 @@ Note that, when computing the mean IoU, we **do not** include the background.
 During evaluation, if you don't want to save images during evaluating for visualization, all you need to do is remove args: `dump_images` in the test scripts.
 
 ## Training
-You could easily evaluate the models with the scripts located in *scripts/train* directory. ** For example, when training RFENet on the Trans10k dataset:
+You could easily evaluate the models with the scripts located in *scripts/train* directory. For example, when training RFENet on the Trans10k dataset:
 ```bash
 sh scripts/train/train_Trans10k_R50_os8_RFENet.sh {path_to_save_results}
 ```
